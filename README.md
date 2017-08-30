@@ -1,3 +1,3 @@
 # introtosoftware
 
-switch branches to change assignemnt #
+switch branches to change assignment #
